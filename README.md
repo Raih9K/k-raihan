@@ -53,7 +53,7 @@
 <p align="center">
          <!-- Social Links -->
          <!-- Mail -->
-        <a href="https://www.instagram.com/k.raiyan____/" target="_blank"><img alt="instagram"
+        <a href="https://www.instagram.com/k.raiyan____/" target="_blank"><img alt="Instagram"
                 src="https://img.shields.io/badge/-Insta-EA4335?style=flat-square&logo=instagram&logoColor=white">
         </a>
          <!-- Mail -->
@@ -82,7 +82,7 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=k-raihan&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Raihan-Khan-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![telegram badge](https://img.shields.io/badge/Raihan-Khan-grey?style=flat&logo=telegram)](https://t.me/#) <br>
 </div>
 </p>
 
@@ -90,11 +90,16 @@
 <details align="center">
     <summary> <samp>&#9776; More </samp></summary>
     <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<div align="center" width="50">
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
+</div>
+
+            
+<!--         <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
         <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-        <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+        <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> -->
 <!--         <img align="center" src="https://raw.githubusercontent.com/k-raihan/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
         <br> -->
 </details>
@@ -123,11 +128,4 @@
 <div align="center" >
 <samp> &gt;_ Happy Coding :) </samp>
  <br>
-
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
- -->
 </div>
