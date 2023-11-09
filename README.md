@@ -4,7 +4,6 @@
                 <b><a target="_blank" href="https://k-raihan.github.io/">Raihan Khan</a></b>
         </samp>
 </h3>
-<br>
 
 <p align="center">
         <!-- Intro -->
@@ -88,13 +87,9 @@
         <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
         <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
         <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-        <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-        <br>
-       
-    </p>
+<!--         <img align="center" src="https://raw.githubusercontent.com/k-raihan/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+        <br> -->
 </details>
-<br>
-
 <!-- Footer -->
 <!-- Featured Repositories -->
 <p align="center">
@@ -118,9 +113,9 @@
 </p>
 
 <div align="center" >
+<samp> &gt;_ Happy Coding :) </samp>
+ <br>
 
-&gt;_ Happy Coding :) <br>
-<hr></hr>
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
